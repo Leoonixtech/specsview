@@ -67,6 +67,7 @@ idk really what it is, but seemed the best.
 
 ## 👑 Credits / team
 Leoonix - Owner, designer and head of development
+
 TTB - compiling the exe releases.
 
 ---
