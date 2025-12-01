@@ -65,6 +65,11 @@ idk really what it is, but seemed the best.
 
 ---
 
+## 👑 Credits
+TTB - compiling the exe releases.
+
+---
+
 ## ⭐ Support
 
 If you find Specsview useful, consider giving the repository a **star** to support the project!
