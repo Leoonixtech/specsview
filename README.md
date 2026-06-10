@@ -1,7 +1,7 @@
 # Specsview
 
 **Specsview** is a fast, lightweight, and open-source system information tool designed to give you clear, detailed hardware specifications at a glance.
-Built as a modern alternative to utilities like CPU-Z, Specsview focuses on simplicity, speed, and accuracy—without the clutter.
+Built as a modern alternative to utilities like CPU-Z, Specsview focuses on simplicity, speed, and accuracy - without the clutter.
 
 ---
 
